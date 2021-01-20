@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caecc6fc149fa9845bc0cc1ef9be7e24, type: 3}
+  m_Name: New Character 1
+  m_EditorClassIdentifier: 
+  health: 100
+  nameOfCharacter: Default
+  abilityList: []
+  characterPrefab: {fileID: 1869344189112232832, guid: 22071a55746d4964e9ce306eb28625b8,
+    type: 3}
+  chooseScreenPrefab: {fileID: 4167595776005411189, guid: e396b0f2eb6b1a74fa08305b46dcb70b,
+    type: 3}
